@@ -13,7 +13,7 @@ export default function Layout({children}: {children: React.ReactNode }) {
     <html lang="en">
 
       <body
-        className= {`antialiased container mx-auto` }  
+        className= {`antialiased container md:w-5xl mx-auto` }  
       >
       <Header />
 

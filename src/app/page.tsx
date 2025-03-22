@@ -9,7 +9,7 @@ import z from "@/../public/img/zaipad.png";
 
 export default function Home() {
   return (
-    <div className="min-h-[300px] my-8 w-xs max-lg:px-5">
+    <div className="min-h-[300px] my-8 container mx-auto max-lg:px-5">
       <h1 className="text-3xl text-gray-400 font-light">Hi! I'm Zai, </h1>
 
       <p className="text-amber-50 my-5">

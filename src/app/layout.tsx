@@ -13,7 +13,7 @@ export default function Layout({children}: {children: React.ReactNode }) {
     <html lang="en">
 
       <body
-        className= {`antialiased flex flex-col min-h-screen md:w-5xl` }  
+        className= {`antialiased flex flex-col min-h-screen md:w-5xl mx-auto` }  
       >
       <Header />
       <main className="flex-grow container mx-auto">

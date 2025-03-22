@@ -9,7 +9,6 @@ import z from "@/../public/img/zaipad.png";
 
 export default function Home() {
   return (
-    <section className="w-16 md:w-32 lg:w48">
     <div className="min-h-[300px] my-8 max-lg:px-5">
       <h1 className="text-3xl text-gray-400 font-light">Hi! I'm Zai, </h1>
 
@@ -102,7 +101,6 @@ export default function Home() {
         <p className="mt-3"><span className="font-bold border-b-2 ">Solana development:</span> Anchor, Rust, Typescript, Web3.js, Pyth Network, Node.js </p>
 
   </div>
-  </section>
 
   );
 }

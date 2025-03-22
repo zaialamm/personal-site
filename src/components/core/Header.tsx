@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Header() {   
     return (
-      <section className="w-16 md:w-32 lg:w48">
+      <>
       <div className="flex justify-between items-center px-5 py-8">
         <div className="text-5xl font-semibold flext justify-center">
           <Link href="/" className="">
@@ -22,8 +22,8 @@ export default function Header() {
       >
 
       </div>
-      </section>
- 
+
+      </>
         
 
     )

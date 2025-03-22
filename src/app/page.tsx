@@ -98,7 +98,7 @@ export default function Home() {
       <h2 className="mt-8 text-xl font-semibold mb-5 border-b-1 border-solid border-gray-500 w-2/3">
         💻 <span className="text-gray-400">Tech Stack</span>
         </h2>
-        <p> <span className="font-bold">Frontend: </span> React.js, Next.js, Javascript/Typescript, Tailwind CSS</p>
+        <p> <span className="font-bold w-sm md:w-2/3">Frontend: </span> React.js, Next.js, Javascript/Typescript, Tailwind CSS</p>
 
         <p> <span className="font-bold">Backend:</span> Node.js, Git </p>
 

@@ -34,9 +34,9 @@ export default function Home() {
       </Image>
         <div className="ml-2 mr-auto ">
        <h3 className="text-md font-semibold"> Stockbit </h3>
-       <p className="text-[13px] font-thin text-gray-500"> SEO Content Writer</p>
+       <p className="text-[13px]  text-gray-500"> SEO Content Writer</p>
        </div>
-       <p className="font-thin text-sm  text-gray-400 "> 2021 - 2025 </p>
+       <p className=" text-sm  text-gray-400 mr-2"> 2021 - 2025 </p>
       </div>
       
       <div className="flex space-between items-center w-sm md:w-2/3 mt-5">
@@ -46,9 +46,9 @@ export default function Home() {
       </Image>
         <div className="ml-2 mr-auto ">
        <h3 className="text-md font-semibold"> Good Doctor </h3>
-       <p className="text-[13px] font-thin text-gray-500"> SEO Content Writer</p>
+       <p className="text-[13px]  text-gray-500"> SEO Content Writer</p>
        </div>
-       <p className="font-thin text-sm  text-gray-400 "> 2019 - 2020 </p>
+       <p className="text-sm text-gray-400 mr-2"> 2019 - 2020 </p>
       </div>
 
       <div className="flex space-between items-center w-sm md:w-2/3 mt-5">
@@ -58,9 +58,9 @@ export default function Home() {
       </Image>
         <div className="ml-2 mr-auto ">
        <h3 className="text-md font-semibold "> ShopBack </h3>
-       <p className="text-[13px] font-thin text-gray-500"> SEO Content Writer</p>
+       <p className="text-[13px]  text-gray-500"> SEO Content Writer</p>
        </div>
-       <p className="font-thin text-sm  text-gray-400 "> 2017 - 2020 </p>
+       <p className="text-sm text-gray-400 mr-2"> 2017 - 2020 </p>
       </div>
 
       <h2 className="mt-8 text-xl text-gray-400 font-semibold mb-5 border-b-1 border-solid border-gray-500 w-2/3">

@@ -67,20 +67,24 @@ export default function Home() {
         📊 Projects
         </h2>
 
-      <div className="py-5 hover:border-1 hover:rounded-2xl hover:border-orange-400 w-md sm:2/3 mt-5">
-      <div className="flex items-center ">
+      <div className="py-5 hover:border-1 hover:rounded-2xl hover:border-orange-400 w-sm sm:2/3 mt-5">
+      
+      <div className="flex items-center">
       <Image src={z} alt="logo Zaipad" width="52" height="52" 
       className="w-10 h-10"
       >
       </Image>
+
        <Link href="https://zaipad.com" target="_blank"
        ><h3 className="ml-2 text-md font-semibold hover:text-orange-400"> Zaipad </h3>
        </Link>
       </div>
+
       <div>
       <p className="pl-1 text-md text-gray-400"
       > A blog about personal finance tips, investment guides, stocks, crypto, etc.
       </p>
+
       </div>
       </div>
       <div className="mt-5 flex items-center space-x-1 sm:w-2/3">

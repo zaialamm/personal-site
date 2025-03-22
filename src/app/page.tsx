@@ -12,7 +12,7 @@ export default function Home() {
     <div className="min-h-[300px] my-8 container mx-auto max-lg:px-5">
       <h1 className="text-3xl text-gray-400 font-light">Hi! I'm Zai, </h1>
 
-      <p className="text-amber-50 my-5">
+      <p className="text-amber-50 my-5 lg:w-2/3">
         I’m currently diving deep into <span className="text-orange-400 hover:font-semibold hover:text-green-400 border-b-2 border-green-400 hover:border-orange-400">Solana Blockchain </span> development, learning <span className="text-orange-400 hover:font-semibold hover:text-green-400 border-b-2 border-green-400 hover:border-orange-400">Rust</span> and Solana from the ground up. 
         Before this, I spent over 7 years as an SEO Content Writer, crafting articles on a wide range of topics, with a strong focus on finance.
       </p>

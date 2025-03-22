@@ -7,7 +7,7 @@ export default function Navbar() {
         id = "navigation"
         className ="flex flex-row justify-end w-full overflow-hidden"
         >
-            <ul className="flex flex-row p-6 space-x-2 tracking-wide">
+            <ul className="flex flex-row p-2 space-x-2 tracking-wide">
                 <LinkItem href="/about" title="About" />
                 <LinkItem href="/projects" title="Projects" />
                 <LinkItem href="/blog" title="Blog" />

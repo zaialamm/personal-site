@@ -27,7 +27,7 @@ export default function Home() {
         💼 Experiences
         </h2>
       
-      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-3">
+      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-8">
       <Image src={sb} alt="logo Stockbit" width="52" height="52" 
       className=" bg-white rounded-full w-10 h-10 border border-gray-800"
       >
@@ -39,7 +39,7 @@ export default function Home() {
        <p className=" text-sm  text-gray-400"> 2021 - 2025 </p>
       </div>
       
-      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-3">
+      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-8">
       <Image src={gd} alt="logo Good Doctor" width={256} height={25} 
       className=" bg-white rounded-full w-10 h-10 border border-gray-800"
       >
@@ -51,7 +51,7 @@ export default function Home() {
        <p className="text-sm text-gray-400"> 2019 - 2020 </p>
       </div>
 
-      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-3">
+      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-8">
       <Image src={sh} alt="logo Shopback" width="52" height="52" 
       className=" bg-white rounded-full w-10 h-10 border-solid border-2 border-gray-500"
       >

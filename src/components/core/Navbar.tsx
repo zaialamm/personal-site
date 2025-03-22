@@ -5,9 +5,9 @@ export default function Navbar() {
     return (
         <nav
         id = "navigation"
-        className ="flex justify-end w-full"
+        className ="flex flex-row justify-end w-full overflow-hidden"
         >
-            <ul className="p-6 space-x-2 tracking-wide">
+            <ul className="flex flex-row p-6 space-x-2 tracking-wide">
                 <LinkItem href="/about" title="About" />
                 <LinkItem href="/projects" title="Projects" />
                 <LinkItem href="/blog" title="Blog" />

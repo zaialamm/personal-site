@@ -30,9 +30,6 @@
     "tailwindcss": "^4",
     "typescript": "^5",
     "vercel": "^41.4.1"
-  },
-
-  "engines": {
-  "node": "18.18.0"
   }
+
 }

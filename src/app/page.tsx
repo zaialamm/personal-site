@@ -9,7 +9,7 @@ import z from "@/../public/img/zaipad.png";
 
 export default function Home() {
   return (
-    <div className="my-8">
+    <div className="my-8 px-5">
       <h1 className="text-3xl text-gray-400 font-light">Hi! I'm Zai, </h1>
 
       <p className="text-amber-50 my-5 lg:text-xl lg:w-2/3">
@@ -27,7 +27,7 @@ export default function Home() {
         💼 Experiences
         </h2>
       
-      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-8">
+      <div className="flex space-between items-center w-sm md:w-2/3 mt-7 pr-8">
       <Image src={sb} alt="logo Stockbit" width="52" height="52" 
       className=" bg-white rounded-full w-10 h-10 border border-gray-800"
       >
@@ -67,7 +67,7 @@ export default function Home() {
         📊 Projects
         </h2>
 
-      <div className="py-5 hover:border-1 hover:rounded-2xl hover:border-orange-400 w-sm sm:2/3 mt-5">
+      <div className="py-3 hover:border-1 hover:rounded-2xl hover:border-orange-400 w-sm sm:2/3 mt-5">
       
       <div className="flex items-center">
       <Image src={z} alt="logo Zaipad" width="52" height="52" 

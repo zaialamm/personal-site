@@ -51,9 +51,6 @@ importers:
       typescript:
         specifier: ^5
         version: 5.8.2
-      vercel:
-        specifier: ^41.4.1
-        version: 41.4.1
 
 packages:
 

@@ -27,7 +27,7 @@ export default function Home() {
         💼 Experiences
         </h2>
       
-      <div className="flex space-between items-center w-sm md:w-2/3 mt-7 pr-8">
+      <div className="flex space-between items-center sm:w-2/3 mt-7 pr-8">
       <Image src={sb} alt="logo Stockbit" width="52" height="52" 
       className=" bg-white rounded-full w-10 h-10 border border-gray-800"
       >
@@ -39,7 +39,7 @@ export default function Home() {
        <p className=" text-sm  text-gray-400"> 2021 - 2025 </p>
       </div>
       
-      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-8">
+      <div className="flex space-between items-center sm:w-2/3 mt-5 pr-8">
       <Image src={gd} alt="logo Good Doctor" width={256} height={25} 
       className=" bg-white rounded-full w-10 h-10 border border-gray-800"
       >
@@ -51,7 +51,7 @@ export default function Home() {
        <p className="text-sm text-gray-400"> 2019 - 2020 </p>
       </div>
 
-      <div className="flex space-between items-center w-sm md:w-2/3 mt-5 pr-8">
+      <div className="flex space-between items-center sm:w-2/3 mt-5 pr-8">
       <Image src={sh} alt="logo Shopback" width="52" height="52" 
       className=" bg-white rounded-full w-10 h-10 border-solid border-2 border-gray-500"
       >
@@ -67,7 +67,7 @@ export default function Home() {
         📊 Projects
         </h2>
 
-      <div className="py-3 hover:border-1 hover:rounded-2xl hover:border-orange-400 w-sm sm:2/3 mt-5">
+      <div className="py-3 hover:border-1 hover:rounded-2xl hover:border-orange-400 sm:2/3 mt-5">
       
       <div className="flex items-center">
       <Image src={z} alt="logo Zaipad" width="52" height="52" 
@@ -98,7 +98,7 @@ export default function Home() {
       <h2 className="mt-8 text-xl font-semibold mb-5 border-b-1 border-solid border-gray-500 w-2/3">
         💻 <span className="text-gray-400">Tech Stack</span>
         </h2>
-        <p> <span className="font-bold w-sm md:w-2/3">Frontend: </span> React.js, Next.js, Javascript/Typescript, Tailwind CSS</p>
+        <p> <span className="font-bold">Frontend: </span> React.js, Next.js, Javascript/Typescript, Tailwind CSS</p>
 
         <p> <span className="font-bold">Backend:</span> Node.js, Git </p>
 

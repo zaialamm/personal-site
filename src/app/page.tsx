@@ -12,7 +12,7 @@ export default function Home() {
     <div className="my-8 px-5">
       <h1 className="text-3xl text-gray-400 font-light">Hi! I'm Zai, </h1>
 
-      <p className="text-amber-50 my-5 lg:text-xl lg:w-2/3">
+      <p className="text-amber-50 my-5 lg:text-xl md:w-2/3">
         I’m currently diving deep into <span className="text-orange-400 hover:font-semibold hover:text-green-400 border-b-2 border-green-400 hover:border-orange-400">Solana Blockchain </span> development, learning <span className="text-orange-400 hover:font-semibold hover:text-green-400 border-b-2 border-green-400 hover:border-orange-400">Rust</span> and Solana from the ground up. 
         Before this, I spent over 7 years as an SEO Content Writer, crafting articles on a wide range of topics, with a strong focus on finance.
       </p>
@@ -27,7 +27,7 @@ export default function Home() {
         💼 Experiences
         </h2>
       
-      <div className="flex space-between items-center sm:w-2/3 mt-7 pr-8">
+      <div className="flex space-between items-center sm:w-2/3 mt-7 pr-4">
       <Image src={sb} alt="logo Stockbit" width="52" height="52" 
       className=" bg-white rounded-full w-10 h-10 border border-gray-800"
       >
@@ -39,7 +39,7 @@ export default function Home() {
        <p className=" text-sm  text-gray-400"> 2021 - 2025 </p>
       </div>
       
-      <div className="flex space-between items-center sm:w-2/3 mt-5 pr-8">
+      <div className="flex space-between items-center sm:w-2/3 mt-5 pr-4">
       <Image src={gd} alt="logo Good Doctor" width={256} height={25} 
       className=" bg-white rounded-full w-10 h-10 border border-gray-800"
       >
@@ -51,7 +51,7 @@ export default function Home() {
        <p className="text-sm text-gray-400"> 2019 - 2020 </p>
       </div>
 
-      <div className="flex space-between items-center sm:w-2/3 mt-5 pr-8">
+      <div className="flex space-between items-center sm:w-2/3 mt-5 pr-4">
       <Image src={sh} alt="logo Shopback" width="52" height="52" 
       className=" bg-white rounded-full w-10 h-10 border-solid border-2 border-gray-500"
       >
@@ -67,7 +67,7 @@ export default function Home() {
         📊 Projects
         </h2>
 
-      <div className="py-3 hover:border-1 hover:rounded-2xl hover:border-orange-400 sm:2/3 mt-5">
+      <div className="py-3 hover:border-1 hover:rounded-2xl hover:border-orange-400 sm:w-2/3 mt-5">
       
       <div className="flex items-center">
       <Image src={z} alt="logo Zaipad" width="52" height="52" 

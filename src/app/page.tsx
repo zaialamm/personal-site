@@ -19,7 +19,7 @@ export default function Home() {
 
       <div className='text-3xl flex justify-items-start mb-8'>
       <Link href="https://github.com/zaialamm" target="_blank"> <FaGithub className='mr-5 text-gray-400 hover:text-white'/> </Link>  
-      <Link href="https://www.linkedin.com/in/zai-alam-01b638102/" target="_blank"> <FaLinkedin className='text-gray-400 hover:text-blue-400 mr-5'/> </Link>
+      <Link href="https://www.linkedin.com/in/zaialamm" target="_blank"> <FaLinkedin className='text-gray-400 hover:text-blue-400 mr-5'/> </Link>
       <Link href="https://x.com/zaialamm" target="_blank"> <FaXTwitter className='text-gray-400 hover:text-white'/> </Link>
       </div>
 

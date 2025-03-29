@@ -26,7 +26,7 @@ export default function Footer() {
 
         <div className='w-48 flex text-xl justify-center mx-auto space-x-3 py-2'>
         <Link href="https://github.com/zaialamm" target="_blank"> <FaGithub className='hover:text-white'/> </Link>  
-        <Link href="https://www.linkedin.com/in/zai-alam-01b638102/" target="_blank"> <FaLinkedin className='hover:text-white'/> </Link>
+        <Link href="https://www.linkedin.com/in/zaialamm" target="_blank"> <FaLinkedin className='hover:text-white'/> </Link>
         <Link href="https://x.com/zaialamm" target="_blank"> <FaXTwitter className='hover:text-white'/> </Link>
         </div>
 
